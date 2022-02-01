@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 344.793 sec <<< FAILURE!
+test(Read_Capcha.Handle_Captcha_7)  Time elapsed: 69.352 sec  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: Unable to find element with locator By.xpath: //*[@id="rc-imageselect-target"]/table/tbody/tr[4]/td[1]/div/div[1]/img
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'MUMTEST-YOGESH', ip: '192.168.7.202', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)
+	at Read_Capcha.Handle_Captcha_7.test(Handle_Captcha_7.java:33)
+
