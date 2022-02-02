@@ -22,10 +22,7 @@
 				</configuration>
 			</plugin>
 			
-			<groupId>com.sarav</groupId>
-                        <artifactId>TomcatMavenApp</artifactId>
-                        <version>2.0</version>
-                        <packaging>war</packaging>
+			
 
 <!-- 			 <plugin> 
 				<groupId>org.apache.maven.plugins</groupId>
