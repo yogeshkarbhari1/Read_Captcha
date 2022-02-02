@@ -6,6 +6,11 @@
 	<artifactId>Capacha_Read</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	
+      <groupid>com.mcnz.rps.web</group>
+	  <artifactid>roshambo</artifact>
+	   <version>1.0</version>
+	   <packing>war</packing>
+
 	
 
 
@@ -56,14 +61,5 @@
 			<artifactId>tess4j</artifactId>
 			<version>5.0.0</version>
 		</dependency>
-		
-		<!-- https://mvnrepository.com/artifact/org.jenkins-ci.main/jenkins-war -->
-                <dependency>
-                        <groupId>org.jenkins-ci.main</groupId>
-                        <artifactId>jenkins-war</artifactId>
-                        <version>2.86</version>
-                        <scope>test</scope>
-              </dependency>
-
 	</dependencies>
 </project>
