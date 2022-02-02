@@ -6,10 +6,7 @@
 	<artifactId>Capacha_Read</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	
-      <groupid>com.mcnz.rps.web</group>
-	  <artifactid>roshambo</artifact>
-	   <version>1.0</version>
-	   <packing>war</packing>
+    
 
 	
 
