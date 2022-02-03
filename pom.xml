@@ -5,7 +5,7 @@
 	<groupId>Capacha_Read</groupId>
 	<artifactId>Capacha_Read</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packing>war</packing>
+	<packaging>war</packaging>
 	
     
 
